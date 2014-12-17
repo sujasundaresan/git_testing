@@ -2574,6 +2574,10 @@ function saveDeathCause(element,elementlabel) {
  * @author Jitha
  * added on 05/13/2014
  */
+ 
+ 
+ /// static comment
+ 
 function showDeathCauseWidget(deathCauseId, deathCause) {
 	var element = "echr:admin:deathCause:all";
 	var elementlabel = "echradmindeathCauseall";
